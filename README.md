@@ -13,4 +13,5 @@ Two tree methods (Random Forest Classifier and Extra Tree Classifier) and one re
    2. False Negatives: 32
    3. True Negatives: 768
    4. True Positives: 431
+   
 In analyzing the best performing Random Forest model, the top 10 most predictive, non-lemmatized words were: 'hiking', 'climbing', 'hike', 'trail', 'hikes', 'trails', 'climb', 'climber', 'boots', 'climbers'.
